@@ -1,9 +1,9 @@
 import React from "react";
 
-const Routes = () => {
+export const Result = () => {
     return (
         <div>
-            
+            This is a result.
         </div>
     );
 }
